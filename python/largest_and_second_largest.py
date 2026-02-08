@@ -11,8 +11,7 @@ def getLargestNmber(arr: list):
     return largest
             
 numbers = [1, 2, 3, 99, 4, 101, 0, 5, 6, 9, 3]           
-result = getLargestNmber(numbers)
-print(result)
+result = print(getLargestNmber(numbers))
 
 
 def getSecondLargest(arr: list):
